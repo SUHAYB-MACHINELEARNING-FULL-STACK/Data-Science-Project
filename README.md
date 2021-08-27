@@ -1,4 +1,4 @@
-<h1>Data Science Project</h1>
+<div align="center"><h1>Data Science Project</h1></div>
 <h2>Files</h1>
 
 <ol>
