@@ -2,6 +2,6 @@
 <h2>Files</h1>
 
 <ol>
-  <li>Data-Science-Project.py</li>
-  <li>Data-Science.py</li>
+  <li><h2>Data-Science-Project.py</h2></li>
+  <li><h2>Data-Science.py</h2></li>
 </ol>
